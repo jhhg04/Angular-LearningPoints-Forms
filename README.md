@@ -1,27 +1,8 @@
-# StudentManagement
+# Student Management Form
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+Consume API json-server
 
-## Development server
+![imagen](https://user-images.githubusercontent.com/52834318/190534776-84b3cca3-6942-4142-91de-0fa9b9956c3e.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![imagen](https://user-images.githubusercontent.com/52834318/190534761-92ffb5cb-066d-420e-bddb-6c3f8484ef7c.png)
